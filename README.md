@@ -1,1 +1,2 @@
-### I am a student from Ukraine who love C#
+### I am a student from Ukraine who loves C#
+#### gmail: iikuzmychov@gmail.com
